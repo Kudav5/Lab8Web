@@ -1,4 +1,4 @@
-)# Penjelasan
+# Penjelasan
 1. buka xampp
 ![](foto/1.png)
 
@@ -14,7 +14,7 @@
 
 5. koneksi.php
 ![](foto/7.png)
-![](foto/8.png)
+![](foto/KONEK.png)
 
 6. index.php
 ![](foto/9a.png)
